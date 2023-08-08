@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @PachiBlub
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning tensorflow.net 
+-
 
 
 <!---
